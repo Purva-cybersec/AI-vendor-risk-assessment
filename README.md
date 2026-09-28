@@ -1,4 +1,4 @@
-# AI Vendor Risk Assessment — AI Meeting Assistants
+# AI Vendor Risk Assessment : AI Meeting Assistants
 
 A third-party risk assessment of two AI meeting assistants, **Gong** and **Otter.ai**, for a fictional company, LedgerLoop, whose sales team wants to record and summarize customer calls. The project follows the TPRM workflow: intake, inherent risk tiering, an AI-specific due diligence questionnaire, vendor research, and a recommendation with conditions.
 
